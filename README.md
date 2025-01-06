@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in R programming related to subsetting data frames. The `bug.R` file shows the erroneous code, while `bugSolution.R` provides the corrected version and explanation.  The issue highlights the importance of verifying the existence of column names before subsetting.
